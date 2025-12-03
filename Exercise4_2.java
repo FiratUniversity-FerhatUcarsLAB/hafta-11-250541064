@@ -1,6 +1,6 @@
-
-
-
+//ad-soyad: muhammet eren alptekin
+//no: 250541064
+//Şube: B
 
 public class Zippo {
 
